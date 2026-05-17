@@ -3862,6 +3862,10 @@
 	path = extensions/subliminal-nightfall
 	url = https://github.com/mhamrah/subliminal-nightfall
 
+[submodule "extensions/subliminal-theme"]
+	path = extensions/subliminal-theme
+	url = https://github.com/ghostvox/subliminal-theme
+
 [submodule "extensions/sumi-light"]
 	path = extensions/sumi-light
 	url = https://github.com/LogicSatinn/sumi-light-zed.git
@@ -4697,6 +4701,3 @@
 [submodule "extensions/zwirn"]
 	path = extensions/zwirn
 	url = https://codeberg.org/polymorphicengine/zwirn-zed-extension.git
-[submodule "extensions/subliminal-theme"]
-	path = extensions/subliminal-theme
-	url = https://github.com/ghostvox/subliminal-theme
